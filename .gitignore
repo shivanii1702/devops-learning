@@ -1,0 +1,8 @@
+*.pem
+*.key
+id_*
+.env
+*.log
+*.qcow2
+*.vdi
+*.iso
