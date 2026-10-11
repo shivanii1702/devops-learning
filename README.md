@@ -4,7 +4,7 @@ Learning DevOps from scratch, starting with Linux. Each lesson gets notes; each 
 
 ## Progress
 - [x] Module 1, Lesson 1: filesystem and navigation
-- [ ] Module 1, Lesson 2: find, grep, permissions
+- [x] Module 1, Lesson 2: find, grep, permissions
 
 ## Projects
 1. Nginx web server
